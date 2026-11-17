@@ -1,0 +1,62 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1001,
+      "Forename": "Bayar",
+      "Surname": "",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/240px-Portrait_Placeholder.png"
+    },
+    {
+      "ID": 1002,
+      "Forename": "Ayar",
+      "Surname": "",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/240px-Portrait_Placeholder.png"
+    },
+    {
+      "ID": 1003,
+      "Forename": "Zana",
+      "Surname": "",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/240px-Portrait_Placeholder.png"
+    },
+    {
+      "ID": 1004,
+      "Forename": "Hawar",
+      "Surname": "",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/240px-Portrait_Placeholder.png"
+    },
+    {
+      "ID": 1005,
+      "Forename": "Yousf",
+      "Surname": "",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/240px-Portrait_Placeholder.png"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 131,
+      "Name": "FC Barcelona",
+      "ShortName": "FCB",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Barcelona_%28crest%29.svg/240px-FC_Barcelona_%28crest%29.svg.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "LaLiga",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Empty.png/240px-Empty.png"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "UEFA Champions League",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Empty.png/240px-Empty.png"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Spotify Camp Nou"
+    }
+  ]
+}
